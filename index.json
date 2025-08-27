@@ -6,7 +6,7 @@
   "repository": "https://github.com/nducvuong9/modules",
   "modules": {
     "tvcn": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Module xem phim TVCine",
       "author": "F-Team",
       "maintainer": "F-Team",
